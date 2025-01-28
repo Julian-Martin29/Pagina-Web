@@ -8,7 +8,7 @@ Se conforma de dos secciones:
 - Blog: Contiene la nitides y principios del programa en la radio. 
 - Periodico Online: Donde las habilidades, se notan. Donde el CMS empieza a ser fundamental y todo lo volcado en dicho administrador toma relevancia en la web. 
 
-My StacK: 
+StacK: 
 - Lenguajes:
     HTML 📄🌟🔤 (Maquetado Web).
     CSS 🎨✨🎭 (Estilos y Diseño).
