@@ -1,4 +1,6 @@
-# 👋 Hola, soy Julián  "🚀 Proyecto web para No Es Lo Mismo, con funcionalidades dinámicas y administración de contenido."
+# 👋 Hola, soy Julián 
+
+"🚀 Proyecto web para No Es Lo Mismo, con funcionalidades dinámicas y administración de contenido."
 
 Actualmente me encuentro trabajando en un proyecto web, en conjunto con colaboradores cuenta con funcionalidadeds dinamicas. 
 El proyecto cuenta con HTML,CSS, PHP y WordPress (MySQL). 
