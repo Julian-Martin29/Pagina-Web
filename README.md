@@ -13,7 +13,7 @@ StacK:
 - Lenguajes:
     HTML 📄🌟🔤 (Maquetado Web).
     CSS 🎨✨🎭 (Estilos y Diseño).
-    PHP 🐘📜💻 (Programacion del lado del servidor).
+    PHP 🐘💻 (Programacion del lado del servidor).
     
 - Framework:
     WordPress 📝🌐📦.
